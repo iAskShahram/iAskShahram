@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m building myself<br>👯 I’m looking to collaborate on Server Architectures<br>🌱 I’m currently learning Next.js<br>💬 Ask me about #ideas, #leadership, #geoeconomics
+🔭 Open for bright ideas<br>👯 I’m looking to collaborate on Server Architectures<br>🌱 Hitting on Next.js<br>💬 Ask me about #ideas, #leadership, #geoeconomics
 
 
 ## 🌐 Socials:
