@@ -10,5 +10,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iAskShahram&icon=3&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iAskShahram&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
